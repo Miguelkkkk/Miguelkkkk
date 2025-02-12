@@ -3,8 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Detention Project](https://github.com/QcG-Estudios/DetentionProject)
-
+- 🎮 Last project [Detention Project](https://github.com/QcG-Estudios/DetentionProject)
+  
 - 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **anything**
