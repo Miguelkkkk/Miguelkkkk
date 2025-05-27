@@ -3,9 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🎮 Last project [Detention Project](https://github.com/QcG-Estudios/DetentionProject)
+- 🎮 My Game [Detention Project](https://github.com/Miguelkkkk/DetentionProject)
+
+- 🔄 Last Project [Python Discord Bot](https://github.com/Miguelkkkk/PythonDiscordBot)
   
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **OracleDB**
 
 - 💬 Ask me about **anything**
 
@@ -17,12 +19,17 @@
 
 <h3 align="left">Languages:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" />
   </a>
   
 <h3 align="left">Tools:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ae,visualstudio,vscode,idea,unity" />
+    <img src="https://skillicons.dev/icons?i=ps,ae,unity" />
+  </a>
+
+  <h3 align="left">IDE's and Code Editors:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,pycharm" />
   </a>
 <!--
 <a>
