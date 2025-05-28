@@ -14,7 +14,8 @@
 - 📫 How to reach me **migueldossantosmiranda2007@gmail.com** 
   
 <h3 align="left">Connect with me:</h3>
-<a href="https://instagram.com/migueldsants" target="blank"><img align="center" img src="https://skillicons.dev/icons?i=instagram" alt="migueldsants"/></a>
+<a href="https://instagram.com/migueldsants" target="blank"><img align="center" img src="https://skillicons.dev/icons?i=instagram" alt="migueldsants"/></a> 
+<a href="https://www.linkedin.com/in/miguel-dos-santos-miranda-969274326/" target="blank"><img align="center" img src="https://skillicons.dev/icons?i=linkedin" alt="Miguel dos Santos Miranda"/></a>
 </p>
 
 <h3 align="left">Languages:</h3>
