@@ -22,14 +22,7 @@
 
 <h3 align="left">Languages:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" />
-  </a>
-
----
-  
-<h3 align="left">Tools:</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ae,unity" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,mysql" />
   </a>
 
 ---
@@ -38,6 +31,29 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,pycharm" />
   </a>
+
+---
+
+<h3 align="left">Version Control:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bitbucket" />
+  </a>
+
+---
+
+  <h3 align="left">Game Engines:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,gamemakerstudio" />
+  </a>
+  
+---
+
+<h3 align="left">Tools:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ae" />
+  </a>
+
+---
 <!--
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelkkkk&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="miguelkkkk"/>
