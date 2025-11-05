@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">A brazilian developer</h3>
 
-- 🎮 My Game [Detention Project](https://github.com/Miguelkkkk/DetentionProject)
+- 🎮 My Game [Detention Project](https://github.com/QCG-studios/DetentionProject)
 
 - 🔄 Last Project [Python Discord Bot](https://github.com/Miguelkkkk/PythonDiscordBot)
   
