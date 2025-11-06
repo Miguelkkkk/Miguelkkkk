@@ -16,13 +16,19 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://instagram.com/migueldsants" target="blank"><img align="center" img src="https://skillicons.dev/icons?i=instagram" alt="migueldsants"/></a> 
 <a href="https://www.linkedin.com/in/miguel-dos-santos-miranda-969274326/" target="blank"><img align="center" img src="https://skillicons.dev/icons?i=linkedin" alt="Miguel dos Santos Miranda"/></a>
-</p>
 
 ---
 
 <h3 align="left">Languages:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,js" />
+  </a>
+
+---
+
+<h3 align="left">Frameworks:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,selenium" />
   </a>
 
 ---
