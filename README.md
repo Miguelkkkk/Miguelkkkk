@@ -3,7 +3,7 @@
 
 - 🎮 My Game [Detention Project](https://github.com/QCG-studios/DetentionProject)
 
-- 🔄 Last Project [Python Discord Bot](https://github.com/Miguelkkkk/PythonDiscordBot)
+- 🔄 Last Project [Python Discord Bot](https://github.com/migueldsants/PythonDiscordBot)
   
 - 🌱 I’m currently learning **OracleDB**
 
